@@ -1,12 +1,12 @@
 # Pokédex
 
-A simple Pokédex in TypeScript and React. This project uses the [Pokémon API](https://pokeapi.co/).
+This is a simple Pokédex I made in TypeScript and React.
 
-Select a Pokémon to view their sprite and basic information. You can filter names and go to a specific Pokémon id.
+This Pokédex allows you to see details of the Pokémon from the first region of the series. By selecting a Pokémon, you view one of their in-game sprites and some basic information about them. You can filter the list of Pokémon by name and can also go to a Pokédex entry by its Pokédex number.
+
+This project uses [PokéAPI](https://pokeapi.co/). PokéAPI is an open-source RESTful API detailing everything about the Pokémon main game series.
 
 <img src='./demo.gif' alt='demo' height='600px' />
-
-Spinner GIF sourced from [Gifer](https://gifer.com/en/ZZ5H).
 
 ## How to run
 
