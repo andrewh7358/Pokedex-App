@@ -1,10 +1,10 @@
 # Pokédex
 
-This is a simple Pokédex I made in TypeScript and React.
-
-This Pokédex allows you to see details of the Pokémon from the first region of the series. By selecting a Pokémon, you view one of their in-game sprites and some basic information about them. You can filter the list of Pokémon by name and can also go to a Pokédex entry by its Pokédex number.
+This is a code demo I made of a simple Pokédex showcasing TypeScript and React.
 
 This project uses [PokéAPI](https://pokeapi.co/). PokéAPI is an open-source RESTful API detailing everything about the Pokémon main game series.
+
+This Pokédex allows you to see details of the Pokémon from the first generation of the series. The details includes an in-game sprite, their type, their height, their weight, and an in-game description. You can filter the list of Pokémon by name. You can also go to a specific Pokédex entry by its number.
 
 <img src='./demo.gif' alt='demo' height='600px' />
 
