@@ -1,6 +1,6 @@
 # Pokédex
 
-This is a code demo I made of a simple Pokédex showcasing TypeScript and React.
+This is a code desmo I made of a simple Pokédex showcasing TypeScript and React.
 
 This project uses [PokéAPI](https://pokeapi.co/). PokéAPI is an open-source RESTful API detailing everything about the Pokémon main game series.
 
