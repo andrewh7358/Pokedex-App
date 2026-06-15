@@ -10,6 +10,6 @@ This Pokédex allows you to see details of the Pokémon from the first generatio
 
 ## How to run
 
-In the project directory, run `npm install` then `npm start`.
+In the project directory, run `npm install` then `npm run dev`.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.

@@ -1,4 +1,4 @@
-import React, { ChangeEvent, FormEvent, JSX, MouseEvent, useState } from 'react'
+import { type ChangeEvent, type FormEvent, type JSX, type MouseEvent, useState } from 'react'
 import { MAX_ID, MIN_FILTER_LENGTH, MIN_ID } from './App'
 
 interface SelectPageProps {

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { getPokemonInfo, getPokemonSpriteUrl, getPokemonText } from './api'
 import { MAX_ID, MIN_ID } from './App'
 import spinner from './spinner.gif'

@@ -1,4 +1,4 @@
-import React, { JSX, useEffect, useState } from 'react'
+import { type JSX, useEffect, useState } from 'react'
 import { getPokemonList } from './api'
 import { Card } from './Card'
 import { InfoPage } from './InfoPage'
