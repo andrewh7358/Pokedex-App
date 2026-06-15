@@ -8,8 +8,8 @@ This Pokédex allows you to see details of the Pokémon from the first generatio
 
 <img src='./demo.gif' alt='demo' height='600px' />
 
-## How to run
+## Live Demo
 
-In the project directory, run `npm install` then `npm run dev`.
+Visit the deployed app here:
 
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+https://pokedex-app-nine-lyart.vercel.app/
